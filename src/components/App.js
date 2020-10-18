@@ -2,7 +2,7 @@ import React, { Component, useState } from "react";
 import "../styles/App.css";
 
 class App extends Component {
-  cities = ["Goa", "Amsterdam", "New York", "Darjeeling", "Tokyo", "Lonavala"];
+  cities = ["Goa(India)", "Darjeeling(India)", "Lonavala(India)"];
   render() {
     return (
       <>
